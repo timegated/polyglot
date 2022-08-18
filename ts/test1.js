@@ -8,3 +8,6 @@ console.log('Objects are passed by reference');
 console.log('a', a);
 console.log('b', b);
 console.log('b points to a');
+
+
+// submarine problem
